@@ -1,0 +1,7 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+bs4=0.0.2=pypi_0
+pandas=2.2.2=py312h526ad5a_0
+selenium=4.24.0=pyhd8ed1ab_0
+webdriver-manager=4.0.2=pypi_0
